@@ -8,11 +8,11 @@ The labs have a progressive level of complexity and they will help you to unders
 
 ## Use Case
 
-Every company has business documents: contracts, memos, presentations, images, spreadsheets, business plans and so on. Usually these documents doesn't have the metadata necessary to be searchable, **as you can see in the image below**. Since documents don't have tags, cetegories and comments, they only can be found by name. This creates a poor search experiece, slowing down busiess process and reducing productivity.
+Every company has business documents: contracts, memos, presentations, images, spreadsheets, business plans and so on. Usually these documents don't have the metadata necessary to be searchable, **as you can see in the image below**. Since documents don't have tags, categories and comments, they can only be found by name. This creates a poor search experience, slowing down business processes and reducing productivity.
 
 ![Lack of Metadata](../../resources/images/sol-arch/no-meta.png)
 
-Azure Cognitive Search, the Microsoft product for Knowledge Mining, uses the most advanced cognitive capabilities, based on Microsoft's Azure AI Platform, to extract and create enriched metadata about your documents, vastly improving the overall search experience. This process also allow companies to enforce complaince, detect risks and detect policies violations.
+Azure Cognitive Search, the Microsoft product for Knowledge Mining, uses the most advanced cognitive capabilities, based on Microsoft's Azure AI Platform, to extract and create enriched metadata about your documents, vastly improving the overall search experience. This process also allow companies to enforce compliance, detect risks and detect policies violations.
 
 Enterprises may need to search for:
 
