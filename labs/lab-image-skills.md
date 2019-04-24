@@ -43,7 +43,7 @@ Two of the nine [predefined skills](https://docs.microsoft.com/en-us/azure/searc
 
 You will add OCR to the cognitive search pipeline, this skill set will read text from the images within our dataset. Here is a [link](https://docs.microsoft.com/en-us/azure/search/cognitive-search-skill-ocr) where you can read more details.
 
->Note! For now, Cognitive Search uses [OCR V2](https://westus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/587f2c6a154055056008f200) (preview), for english. And uses V1 for other languages. This may change in the future.
+>Note! For now, Cognitive Search uses [OCR V2](https://westus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/587f2c6a154055056008f200) (preview), for English. And uses V1 for other languages. This may change in the future.
 
 Image skills, like OCR and Image Analysis, are heavier than text skills. Behind the scenes, Microsoft is running deep learning algorithms on your data. Expect to have the indexer running longer than the text only skillset.
 
